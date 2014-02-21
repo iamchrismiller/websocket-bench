@@ -7,7 +7,6 @@ module.exports = {
   Monitor         : require('./lib/monitor'),
   Steps           : require('./lib/steps'),
   StopWatch       : require('./lib/stopwatch'),
-  Worker          : require('./lib/worker'),
 
   //Static Methods
   generator       : require('./lib/generator'),
